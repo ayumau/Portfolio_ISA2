@@ -1,4 +1,4 @@
-# Portfolio_ISA2
+# Responsive_Portfolio_ISA2
 # Aayush - UX/UI Designer & Frontend Developer Portfolio
 
 This is a personal portfolio webpage for **Aayush**, showcasing his work as a UX/UI Designer and Frontend Developer. The website is built using **HTML**, **Tailwind CSS**, and **Font Awesome** for icons, and includes various sections like introduction, about, recent works, and contact details.
@@ -55,6 +55,10 @@ This portfolio can be used as a personal project website, or as a template for o
 - Update the content within the different sections (intro, about, works, contact) to suit your own portfolio needs.
 - Replace the images in the `/Images` directory with your own.
 - Update the social media links and contact information to match your own.
+
+## Comparison between ISA 1 and ISA 2
+- ISA 1 was very cosmic oriented, not oriented
+- Making the same ISA one portfolio very advanced level of CSS is required
 
 ## License
 This project is licensed under the @Aayush. You are free to use and modify it as per the terms of the license.
