@@ -57,4 +57,4 @@ This portfolio can be used as a personal project website, or as a template for o
 - Update the social media links and contact information to match your own.
 
 ## License
-This project is licensed under the MIT License. You are free to use and modify it as per the terms of the license.
+This project is licensed under the MauryaWorks. You are free to use and modify it as per the terms of the license.
